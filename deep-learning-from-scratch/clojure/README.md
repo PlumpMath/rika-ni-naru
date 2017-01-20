@@ -1,14 +1,7 @@
-# dlfs
+# Deep Learning from Scratch
 
-A Clojure library designed to ... well, that part is up to you.
+**Disclaimer**: since I'm pretty new to Clojure, the codes are not expected to be idiomatic Clojure.
 
-## Usage
+# License
 
-FIXME
-
-## License
-
-Copyright © 2017 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Public Domain CC0
