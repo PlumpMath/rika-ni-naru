@@ -8,7 +8,5 @@
                  [net.mikera/core.matrix "0.57.0"]
                  ; matplotlib equivalent
                  [com.hypirion/clj-xchart "0.2.0"]
-                 ; display image
-                 [quil "2.5.0"]
                  ; mnist dataset
                  [thinktopic/cortex-datasets "0.3.0"]])
